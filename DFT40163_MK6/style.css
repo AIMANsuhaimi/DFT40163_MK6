@@ -1,0 +1,30 @@
+.box{
+    border-color: rgb(21, 121, 208);
+    background-color: black;
+    margin: 10%;
+    border-style: solid;
+    border-width: medium  7px;
+
+}
+.head{
+    font-family: 'Madimi One', Courier, monospace;
+    color: aliceblue;   
+    margin: 50px;
+}
+.sejarah{ 
+    column-width: 250px;
+    color: azure;
+    padding-left: 5%;
+     
+}
+.fa-book{
+    color: aliceblue;
+    padding: 10px;
+    font-size: 20px;
+}
+.madimi-one-regular {
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
